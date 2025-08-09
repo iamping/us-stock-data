@@ -1,2 +1,3 @@
-# us-stocks-data
-US Stocks data with relative strength rating
+# US Stock Data
+
+US Stock data with relative strength rating
